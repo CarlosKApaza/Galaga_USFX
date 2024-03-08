@@ -6,7 +6,7 @@
 #include "GameFramework/Actor.h"
 #include "NaveEnemiga.generated.h"
 
-class UStaticMeshComponent; // Forward declaration
+class UStaticMeshComponent;	// Forward declaration
 
 UCLASS()
 class GALAGA_USFX_API ANaveEnemiga : public AActor
@@ -26,7 +26,7 @@ private:
 	float posicionX;
 	float posicionY;
 	float posicionZ;
-	FVector posicion;
+	//FVector posicion;
 public:
 	// Getters 
 	FORCEINLINE float GetResistencia() const { return resistencia; }

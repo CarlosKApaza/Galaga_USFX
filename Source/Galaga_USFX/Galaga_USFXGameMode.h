@@ -7,6 +7,7 @@
 #include "Galaga_USFXGameMode.generated.h"
 
 class ANaveEnemiga;
+class ANaveEnemigaEspecial;
 
 UCLASS(MinimalAPI)
 class AGalaga_USFXGameMode : public AGameModeBase
@@ -22,6 +23,7 @@ protected:
 
 public:
 	ANaveEnemiga* NaveEnemiga01;
+	ANaveEnemigaEspecial* NaveEnemigaEspecial01;
 };
 
 

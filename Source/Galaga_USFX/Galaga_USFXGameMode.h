@@ -23,7 +23,6 @@ protected:
 
 public:
 	ANaveEnemiga* NaveEnemiga01;
-	ANaveEnemigaEspecial* NaveEnemigaEspecial01;
 };
 
 

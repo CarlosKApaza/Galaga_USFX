@@ -67,23 +67,5 @@
     <ClInclude Include="..\..\Source\Galaga_USFX\NaveEnemiga.h">
       <Filter>Source\Galaga_USFX</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\Galaga_USFX\NaveEnemigaEspecial.cpp">
-      <Filter>Source\Galaga_USFX</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Galaga_USFX\NaveEnemigaEspecial.h">
-      <Filter>Source\Galaga_USFX</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Galaga_USFX\Navejefe.cpp">
-      <Filter>Source\Galaga_USFX</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Galaga_USFX\Navejefe.h">
-      <Filter>Source\Galaga_USFX</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Galaga_USFX\NaveKamikase.cpp">
-      <Filter>Source\Galaga_USFX</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Galaga_USFX\NaveKamikase.h">
-      <Filter>Source\Galaga_USFX</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

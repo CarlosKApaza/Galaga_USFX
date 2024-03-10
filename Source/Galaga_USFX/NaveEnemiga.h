@@ -17,7 +17,7 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Projectile, meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent* MallaNaveEnemiga;
 
-private:
+protected:
 	float energia;
 	float vida;
 	float resistencia;

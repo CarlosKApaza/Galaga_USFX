@@ -8,6 +8,7 @@
 
 class ANaveEnemiga;
 class ANaveEnemigaCaza;
+class ANaveEnemigaTransporte;
 
 UCLASS(MinimalAPI)
 class AGalaga_USFXGameMode : public AGameModeBase
@@ -24,6 +25,7 @@ protected:
 public:
 	ANaveEnemiga* NaveEnemiga01;
 	ANaveEnemigaCaza* NaveEnemigaCaza01;
+	ANaveEnemigaTransporte* NaveEnemigaTransporte01;
 };
 
 

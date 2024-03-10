@@ -17,3 +17,5 @@ C:\SIS457\Galaga_USFX\Source\Galaga_USFX\NaveEnemiga.h
 C:\SIS457\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemiga.generated.h
 C:\SIS457\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaCaza.h
 C:\SIS457\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaCaza.generated.h
+C:\SIS457\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaTransporte.h
+C:\SIS457\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaTransporte.generated.h

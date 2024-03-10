@@ -22,7 +22,7 @@ private:
 	float vida;
 	float resistencia;
 	float velocidad;
-	float danoProducido;
+	float danoProducido; // ataque de la nave
 	FString nombre;
 	float puntaje;
 	float tiempoDisparo;
